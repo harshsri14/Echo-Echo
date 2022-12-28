@@ -1,4 +1,4 @@
-Python Virtual Assistant
+## Python Virtual Assistant
 
 * Install Requirements: 
 ```
@@ -15,3 +15,5 @@ NEWS_API_KEY=None
 OPENWEATHER_APP_ID=None
 TMDB_API_KEY=None
 ```
+
+* Run `main.py` 
