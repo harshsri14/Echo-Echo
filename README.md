@@ -1,13 +1,11 @@
-* freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+Python Virtual Assistant
 
-* Hashnode articles:
-  * Part 1: https://ashutoshkrris.hashnode.dev/how-to-build-your-personal-ai-assistant-using-python
-  * Part 2: https://ashutoshkrris.hashnode.dev/how-to-implement-functionality-to-your-personal-ai-assistant-using-python
+* Install Requirements: 
+```
+pip install -r requirements.txt
+```
 
-Demo Video: https://vimeo.com/650156113
-
-Contents of .env file:
-
+* Create a `.env` file containing below entries:
 ```
 USER=None
 BOTNAME=JARVIS
@@ -17,5 +15,3 @@ NEWS_API_KEY=None
 OPENWEATHER_APP_ID=None
 TMDB_API_KEY=None
 ```
-
-Replace `None` with your values
