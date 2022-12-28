@@ -8,7 +8,7 @@ pip install -r requirements.txt
 * Create a `.env` file containing below entries:
 ```
 USER=None
-BOTNAME=JARVIS
+BOTNAME=Echo
 EMAIL=None
 PASSWORD=None
 NEWS_API_KEY=None
